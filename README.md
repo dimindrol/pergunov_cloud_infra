@@ -26,6 +26,7 @@ runcmd:
 Результат:
 
 1.Terraform playbook https://github.com/dimindrol/pergunov_cloud_infra/tree/a3d9f966876c32d466c4cbf007aa3d02a41aaf2e/cloud_infrastructure
+
 2.Балансировщик
 ![image](https://github.com/dimindrol/pergunov_cloud_infra/assets/103885836/d5876671-df52-42ce-99bd-44f824973d90)
 
